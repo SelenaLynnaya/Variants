@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <name>Верещагина Есения Михайловна</name>
+    <login>dyjej</login>
+    <pass _>Rg2PHz37</pass _>
+    <role>1</role>
+  </row>
+  <row>
+    <name>Федотова Алиса Егоровна</name>
+    <login>xiwaz</login>
+    <pass _>NTGFk6TS</pass _>
+    <role>1</role>
+  </row>
+  <row>
+    <name>Пименов Тимофей Даниилович</name>
+    <login>hygyc</login>
+    <pass _>CnhgXsLq</pass _>
+    <role>1</role>
+  </row>
+</root>
